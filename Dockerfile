@@ -16,3 +16,13 @@ ADD . /app
 # copy project
 # COPY . .
 WORKDIR /app
+
+
+
+
+
+# /////////////
+# 1. kubernetes cluster (master,worker)
+# 2. kubernetes docs study (components)
+# 3. Workloads, services, configmaps, secrets, pods, ingress/ingress-controller, Storage, jobs/cronjobs, labels
+# 4. manifest writing
